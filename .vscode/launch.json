@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearch",
+            "request": "launch",
+            "mainClass": "searching.LinearSearch",
+            "projectName": "coding-practice_2060d08a"
+        }
+    ]
+}
